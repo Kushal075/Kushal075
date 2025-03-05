@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kushal K N
-- 👀 I’m interested in AI&ML and willing to works as "Java devoloper"or "Software Developer Tester"
-- 🌱 I’m currently learning data structures in java,MS Excel
+- 👀 I’m interested in Artificial Intelligence & Machine Learning and willing to works as "Java devoloper"or "Software Developer "
+- 🌱 I’m currently learning Software Development Tools,Prompt Engineering,Software Testing Methodology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/kushal-k-n-a19a92300
 
